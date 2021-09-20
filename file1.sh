@@ -1,0 +1,2 @@
+echo print a
+
