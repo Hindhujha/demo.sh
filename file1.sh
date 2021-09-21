@@ -1,2 +1,3 @@
-echo print a
+echo name
+echo age
 
