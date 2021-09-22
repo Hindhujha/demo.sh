@@ -1,3 +1,4 @@
+#using while loop
 #!/bin/bash -x
 i=1
 sum=0
